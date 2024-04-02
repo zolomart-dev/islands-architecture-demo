@@ -8,7 +8,7 @@ import solid from '@astrojs/solid-js';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://islands-architecture-demo.github.io',
+  site: 'https://zolomart-dev.github.io',
   base: 'islands-architecture-demo',
   // Enable many frameworks to support all different kinds of components.
   integrations: [
